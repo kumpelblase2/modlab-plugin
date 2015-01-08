@@ -1,0 +1,20 @@
+{
+  "name": "modlab-plugin",
+  "version": "0.0.1",
+  "description": "The base for a modlab plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kumpelblase2/modlab-plugin.git"
+  },
+  "keywords": [
+    "plugin",
+    "modlab"
+  ],
+  "author": "kumpelblase2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumpelblase2/modlab-plugin/issues"
+  },
+  "homepage": "https://github.com/kumpelblase2/modlab-plugin"
+}
