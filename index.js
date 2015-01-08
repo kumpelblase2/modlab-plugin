@@ -17,6 +17,9 @@ function Plugin(app, chat, options)
     if(options.models) {
         this.models = options.models;
     }
+
+    this.app = app;
+    this.chat = chat;
 }
 
 Plugin.prototype.init = function(callback) {

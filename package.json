@@ -1,6 +1,6 @@
 {
   "name": "modlab-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The base for a modlab plugin",
   "main": "index.js",
   "repository": {
