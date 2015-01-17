@@ -22,6 +22,10 @@ function Plugin(app, chat, options)
         this.routes = options.routes;
     }
 
+    if(options.controllers) {
+        this.controllers = options.controllers;
+    }
+
     this.app = app;
     this.chat = chat;
 }
