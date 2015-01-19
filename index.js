@@ -17,6 +17,10 @@ function Plugin(app, chat, options)
     if(options.models) {
         this.models = options.models;
     }
+    
+    if(options.routes) {
+        this.routes = options.routes;
+    }
 
     this.app = app;
     this.chat = chat;
